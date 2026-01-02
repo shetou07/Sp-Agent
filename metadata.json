@@ -1,0 +1,5 @@
+{
+  "name": "Student Pesa POS",
+  "description": "A modern Point of Sale system for school agents to manage student transactions, featuring product catalog, student identification, and reporting.",
+  "requestFramePermissions": []
+}
